@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Apptraning</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="HelloMyActivityOne">hello from my Activity one</string>
+    <string name="locationOne">Alexandria</string>
+    <string name="Des">My home town</string>
+    <string name="locationtwo">Matrouh</string>
+    <string name="destwo">hebas home town</string>
+    <string name="locationthree">Abo keer</string>
+    <string name="desthree">end if alex</string>
+</resources>
